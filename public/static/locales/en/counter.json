@@ -1,0 +1,4 @@
+{
+  "label": "You have clicked {{count}} times.",
+  "button": "Increment counter"
+}
